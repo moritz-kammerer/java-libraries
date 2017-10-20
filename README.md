@@ -14,9 +14,9 @@
 
 ## Gaming
 
-* [libGDX](http://libgdx.badlogicgames.com/) - Engine complete with Unity-like editor. Preferred for 3D games.
-* [jMonkeyEngine](http://jmonkeyengine.org/) - Engine preferred for 2D games.
-* [LWJGL](https://www.lwjgl.org/) - Low level wrapper for different native libs e.g. OpenGL and OpengAL.  
+* [libGDX](http://libgdx.badlogicgames.com/) - Engine complete with Unity-like editor. Preferred for 3D games
+* [jMonkeyEngine](http://jmonkeyengine.org/) - Engine preferred for 2D games
+* [LWJGL](https://www.lwjgl.org/) - Low level wrapper for different native libs e.g. OpenGL and OpengAL
 
 ## License
 

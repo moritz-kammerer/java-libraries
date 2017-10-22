@@ -2,6 +2,8 @@
 
 ## Utilities
 * [JSR-305](https://mvnrepository.com/artifact/com.google.code.findbugs/jsr305) - @Nullable annotations
+* [Guava](https://github.com/google/guava) - Google Core Libraries for Java
+
 ## Web frameworks
 
 * [Jooby](http://jooby.org/) - Microservice framework

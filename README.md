@@ -5,6 +5,7 @@
 ## Web frameworks
 
 * [Jooby](http://jooby.org/) - Microservice framework
+* [Spark](http://sparkjava.com/) - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort
 
 ## Testing
 
